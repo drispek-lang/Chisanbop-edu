@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Chisanbop Edu",
-    "slug": "chisanbop-edu",
+    "slug": "chisanbop-math",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,5 +26,8 @@
         "projectId": "cfd4d134-fd4f-4aee-999f-2113bde16efd"
       }
     }
+  },
+  "cli": {
+    "appVersionSource": "remote"
   }
 }
