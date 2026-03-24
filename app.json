@@ -4,18 +4,8 @@
     "slug": "chisanbop-math",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ff6d00"
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ff6d00"
-      },
       "package": "com.chisanbop.edu",
       "versionCode": 1,
       "permissions": []
@@ -26,8 +16,5 @@
         "projectId": "cfd4d134-fd4f-4aee-999f-2113bde16efd"
       }
     }
-  },
-  "cli": {
-    "appVersionSource": "remote"
   }
 }
