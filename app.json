@@ -5,10 +5,18 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ff6d00"
+    },
     "android": {
       "package": "com.chisanbop.edu",
       "versionCode": 1,
-      "permissions": []
+      "permissions": [],
+      "splash": {
+        "backgroundColor": "#ff6d00",
+        "resizeMode": "contain"
+      }
     },
     "platforms": ["android"],
     "extra": {
